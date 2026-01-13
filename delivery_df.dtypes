@@ -1,0 +1,3 @@
+delivery_df.dtypes
+delivery_df['total_runs_y'].head()
+delivery_df['total_runs_y'].unique()[:30]
